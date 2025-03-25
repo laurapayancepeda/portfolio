@@ -1,7 +1,5 @@
-# Business Analyst/ Data Analyst 
-
 ## About me 
-Hello, I am Laura Payan Cepeda, and I started in business, fell in love with strategy, and then realized that data is what truly drives smart decisions. Now, I help businesses and related stakholders tackle their challenges and reach their objectives by making data work for them. but only when it’s understood and applied effectively. I’m driven by curiosity, ambition, and the power of data to create meaningful business outcomes.
+Hi, I’m Laura Payan Cepeda. My journey started in business, where I quickly fell in love with strategy. Over time, I realized that data is what truly drives smart decisions. Now, I help businesses and their teams solve challenges and reach their goals by making data work for them. Data holds the key to performance, but only when it’s understood and used the right way. I’m driven by curiosity, ambition and a passion for using data to create real, meaningful results.
 
 ### Education 
 - Bachelor of Arts in International Business (University of Liverpool)
