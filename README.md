@@ -16,17 +16,17 @@ Hi! I’m Laura Payan Cepeda. My journey started in business, where I quickly fe
 - Data Management
 - ERP Systems
 
-#Projects 
+# Projects 
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge. My projects are listed in order from the most recent to the earliest*
 
-##FOOTBALL ANALYTICS: 
+## FOOTBALL ANALYTICS: 
 
-###APLAYER AND TEAM PERFORMANCE OF THE UEFA EURO 2024 SEASON DATA (RStudio)
+### PLAYER AND TEAM PERFORMANCE OF THE UEFA EURO 2024 SEASON DATA (RStudio)
 - Ranks teams based on the number of shots taken to compare shooting volume.
 - Highlights the attacking contributions of the top 20 players (min. 360 minutes played) using shots and key passes per 90 minutes.
 - Visualizes player completed passes into the final third (filtering here to Toni Kroos, showcasing his role in ball progression.
 
-###USING BUSINESS INTELLIGENCE FOR SHOOTING TRENDS (Power BI)
+### USING BUSINESS INTELLIGENCE FOR SHOOTING TRENDS (Power BI)
 - 
 
 
