@@ -3,12 +3,14 @@ Hi, I’m Laura Payan Cepeda. My journey started in business, where I quickly fe
 
 ### Education 
 - Bachelor of Arts in International Business (University of Liverpool)
-- Masters of Science in Business Analytics and Big Data (University of Liverpool)
+- Masters of Science in Business Analytics and Big Data (University of Liverpool) 
 
 ### Areas of Interest 
-- Data Analysis and impact on corporate strategy 
+- Data Analysis and Impact on Corporate Strategy 
 - Business Intelligence 
-- Machine learning and data mining 
+- Machine learning and Data Mining 
 - Sports Analytics 
-- Predictive and Prescriptive Analytics 
+- Predictive and Prescriptive Analytics
+- Data Management
+- ERP Systems 
 
