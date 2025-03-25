@@ -17,4 +17,4 @@ Hi, I’m Laura Payan Cepeda. My journey started in business, where I quickly fe
 - ERP Systems 
 
 # Contact Info 
-Linkedin: https://www.linkedin.com/in/laura-payan-cepeda/ 
+- Linkedin: https://www.linkedin.com/in/laura-payan-cepeda/ 
