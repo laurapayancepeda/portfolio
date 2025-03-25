@@ -17,7 +17,7 @@ Hi! I’m Laura Payan Cepeda. My journey started in business, where I quickly fe
 - ERP Systems
 
 # Projects 
-*I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge. My projects are listed in order from the most recent to the earliest*
+*I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
 
 ## Business Intelligence
 
