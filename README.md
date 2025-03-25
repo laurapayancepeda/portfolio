@@ -21,12 +21,12 @@ Hi! I’m Laura Payan Cepeda. My journey started in business, where I quickly fe
 
 ## FOOTBALL ANALYTICS: 
 
-### PLAYER AND TEAM PERFORMANCE OF THE UEFA EURO 2024 SEASON DATA (RStudio)
+### Player and Team Performance of the UEFA EURO 2024 season data (RStudio)
 - Ranks teams based on the number of shots taken to compare shooting volume.
 - Highlights the attacking contributions of the top 20 players (min. 360 minutes played) using shots and key passes per 90 minutes.
-- Visualizes player completed passes into the final third (filtering here to Toni Kroos, showcasing his role in ball progression.
+- Visualizes player completed passes into the final third (filtering here to Toni Kroos), showcasing his role in ball progression.
 
-### USING BUSINESS INTELLIGENCE FOR SHOOTING TRENDS (Power BI)
+### Using business intelligence for shooting trends (Power BI)
 - 
 
 
