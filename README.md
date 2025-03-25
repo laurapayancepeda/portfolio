@@ -23,6 +23,8 @@ Hi! I’m Laura Payan Cepeda. My journey started in business, where I quickly fe
 
 ### Using business intelligence for football analysis (Tableau)
 
+### Uisng Business Intelligence to support real-life decision-making and core functions in an SME
+
 ## Sports Analytics: 
 
 ### Player and Team Performance of the UEFA EURO 2024 season Statsbombdata (RStudio)
@@ -40,16 +42,16 @@ Developed a decision tree model to classify customer acceptance of car purchases
 Applied a CART-based classification model to predict wine quality using 12 key features.
 -Model evaluation using a confusion matrix showed an overall accuracy of 55.07%, with areas for improvement in sensitivity and precision.
 
-## Using business intelligence for environmental monitoring and forecasting 
--Tableau Dashboard: Visualized Lake Powell fisheries data (2004-2018) to monitor environmental patterns, fish population trends, and ecosystem health.
--Predictive Model (Random Forest): Implemented in RapidMiner to forecast fish weight based on Striped Bass stomach contents. Achieved 56.91% accuracy, with 94.77% precision for lighter fish and 99.19% recall for heavier fish, aiding fisheries management and ecological research.
+### Using business intelligence for environmental monitoring and forecasting 
+- Tableau Dashboard: Visualized Lake Powell fisheries data (2004-2018) to monitor environmental patterns, fish population trends, and ecosystem health.
+- Predictive Model (Random Forest): Implemented in RapidMiner to forecast fish weight based on Striped Bass stomach contents. Achieved 56.91% accuracy, with 94.77% precision for lighter fish and 99.19% recall for heavier fish, aiding fisheries management and ecological research.
 
- ## Sentiment Analysis and Pattern Recognition in Personal Journals for Emotional Insight and Well-being Monitoring
-Developed a sentiment analysis and clustering model to analyze personal journal entries, uncovering themes and emotional patterns affecting well-being.By analyzing past journal data, the model can predict emotional trends, identify triggers, and provide personalized well-being recommendations. 
+ ### Sentiment Analysis and Pattern Recognition in Personal Journals for Emotional Insight and Well-being Monitoring
+- Developed a sentiment analysis and clustering model to analyze personal journal entries, uncovering themes and emotional patterns affecting well-being.By analyzing past journal data, the model can predict emotional trends, identify triggers, and provide personalized well-being recommendations. 
 K-means clustering was utilized to categorize journal entries into three distinct sentiment groups:
 1. Slightly Positive – Predominantly associated with family-related emotions.
 2. Negative – Largely linked to work-related stress.
 3. Very Positive – Characterized by themes of family and enjoyment.
-Additionally, the Apriori algorithm was employed to identify associations between words and recurring themes within each sentiment cluster, facilitating the recognition of emotional triggers and behavioral patterns. 
+- Additionally, the Apriori algorithm was employed to identify associations between words and recurring themes within each sentiment cluster, facilitating the recognition of emotional triggers and behavioral patterns. 
 
 
