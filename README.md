@@ -16,14 +16,18 @@ Hi! I’m Laura Payan Cepeda. My journey started in business, where I quickly fe
 - Data Management
 - ERP Systems
 
+
 # Projects 
+
 *I document my journey, taking on a variety of projects across different industries, driven by my natural curiosity about applying my skills and expanding my knowledge*
 
 ## Business Intelligence
 
-### Using business intelligence for football analysis (Tableau)
+### Business intelligence for football match analysis (Tableau)
+This Tableau dashboard analyzes Liverpool's performance in the 2019 Champions League Final, focusing on key metrics such as pass maps, shot locations, passing success rates, and player positioning. It provides insights into the team’s passing efficiency, attacking strategies, and overall performance, offering a comprehensive view of the match. I am currently still working on this dashboard, hoping to bring more metrics and KPIs.  
 
-### Uisng Business Intelligence to support real-life decision-making and core functions in an SME
+### Business Intelligence to support real-life decision-making and core functions in an SME
+
 
 ## Sports Analytics: 
 
